@@ -1,0 +1,16 @@
+{application, gossiper,
+ [{description, "Gossip about server resource usage"},
+  {vsn, "1.0.0"},
+  {registered, []},
+  {mod, { gossiper_app, []}},
+  {applications,
+   [kernel,
+    stdlib
+   ]},
+  {env,[]},
+  {modules, []},
+
+  {maintainers, []},
+  {licenses, []},
+  {links, []}
+ ]}.
