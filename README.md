@@ -1,1 +1,3 @@
-# Gossiper - Servers monitor
+# Gossiper
+
+To monitor server resources
